@@ -1,0 +1,10 @@
+requests
+pymongo
+Flask
+pmdarima
+statsmodels
+dnspython
+pytest
+gevent
+gunicorn
+dnspython
